@@ -52,3 +52,4 @@
 - [হাসিন হায়দার](https://hasin.me/)
 - [দিবাকর সূত্রধর](https://with.dibakar.me/)
 - [জুনায়েদ আহমেদ](https://with.zonayed.me/bn)
+- [হাসিবুর রহমান](https://www.technicalcarebd.com/)
